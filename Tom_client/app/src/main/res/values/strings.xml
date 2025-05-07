@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tom_client</string>
+    <string name="hint_username">用户名</string>
+    <string name="hint_password">密码</string>
+    <string name="hint_email">邮箱</string>
+    <string name="hint_phone">手机号</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_register">注册</string>
+    <string name="btn_to_register">没有账号？去注册</string>
+    <string name="btn_to_login">已有账号？去登录</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_failed">登录失败</string>
+    <string name="register_success">注册成功</string>
+    <string name="register_failed">注册失败</string>
+    <string name="network_error">网络错误</string>
+</resources>
